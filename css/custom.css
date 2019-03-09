@@ -1,1 +1,10 @@
 /*! Place your custom styles here */
+p:last-child {
+    margin-bottom: 2em;
+  }
+
+image-container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  }
