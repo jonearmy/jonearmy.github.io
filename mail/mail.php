@@ -6,7 +6,7 @@
 
 // Choose here whether to use php mail() function or your SMTP server (recommended) to send the email.
 // Use 'smtp' for better reliability, or use 'phpmail' for quick + easy setup with lower reliability.
-$emailMethod                = 'smtp'; // REQUIRED value. Options: 'smtp' , 'phpmail'
+$emailMethod                = 'phpmail'; // REQUIRED value. Options: 'smtp' , 'phpmail'
 
 // Outgoing Server Settings - replace values on the right of the = sign with your own.
 // These 3 settings are only required if you choose 'smtp' for emailMethod above.
@@ -17,7 +17,7 @@ $outgoingServerSecurity     = 'ssl';                 // Options: 'ssl' , 'tls' ,
 // Sending Account Settings - replace these details with an email account held on the SMTP server entered above.
 // These 2 settings are only required if you choose 'smtp' for emailMethod above.
 $sendingAccountUsername     = 'questions@callmejj.ca';
-$sendingAccountPassword     = 'frankiebaby';
+$sendingAccountPassword     = 'admin';
 
 // Recipient (To:) Details  - Change this to the email details of who will receive all the emails from the website.
 $recipientEmail             = 'jessica@callmejj.ca'; // REQUIRED value.
