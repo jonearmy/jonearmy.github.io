@@ -130,24 +130,7 @@
                     </div>
                 </div>
             </section>
-            <a id="sp" class="in-page-link"></a>
-            <section class="imagebg feature-large-7 switchable switchable--switch" data-overlay="6">
-                <div class="background-image-holder"> <img alt="background" src="images/Sketches.png"> </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-7 col-md-5">
-                            <div class="boxed boxed--lg border--round bg--white">
-                                <div class="col-md-10 col-md-offset-1 col-sm-12">
-                                    <h3>Sketching and Prototyping</h3>
-                                    <p class="lead">I love to sketch out a problem. When the focus of a project is clear, and any discovery or interviews have been conducted, it's time to put pen to paper and really understand the problem at hand.</p>
-                                    <hr class="short">
-                                    <p>The background image here is a collage of a bunch of different sketches. Let's just say my sketchbook archive is immense.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+          
             <a id="cd" class="in-page-link"></a>
             <section class="switchable feature-large ">
                 <div class="container">
@@ -165,32 +148,6 @@
                     </div>
                 </div>
             </section>
-            <section class="switchable feature-large">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-5 col-sm-6 switchable__text">
-                            <h2>Collaborative Development</h2>
-                            <p class="lead">In my work experience, I have always worked closely with software developers. <br><br>Close communication with development throughout the project and process can lead to faster delivery of working increments.&nbsp;</p>
-                        </div>
-                        <div class="col-md-4 col-sm-6 col-md-pull-1 col-xs-12">
-                            <div class="boxed boxed--lg boxed--border box-shadow-wide">
-                                <div class="slider" data-paging="true">
-                                    <ul class="slides">
-                                        <li class="col-xs-12">
-                                            <div class="feature feature-3 text-center"> <i class="icon icon--lg icon-Bacteria color--primary"></i>
-                                                <h4>Modular Design</h4>
-                                                <p> </p>
-                                                <a href="#"> </a>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <a id="sd" class="in-page-link"></a>
             <section class="switchable feature-large imagebg switchable--switch" data-overlay="6">
                 <div class="background-image-holder">  </div>
@@ -206,36 +163,7 @@
                 </div>
             </section>
             <a id="sampleremove" class="in-page-link"></a>
-            <section class="switchable hide">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-7"> <img alt="Image" src="img/device-2.png"> </div>
-                        <div class="col-sm-5 col-md-4">
-                            <div class="switchable__text">
-                                <h3>Experience quality</h3>
-                                <p class="lead"> Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template. </p>
-                                <hr class="short">
-                                <p> Each purchase of Stack includes six months of free support and lifetime free content and bug-fix updates. </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <a id="cta" class="in-page-link"></a>
-            <section class="text-center switchable cta cta-3 imagebg" data-gradient-bg="#4876BD,#5448BD,#8F48BD,#BD48B1">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6 col-md-7">
-                            <div class="switchable__text">
-                                <h2>Get in touch with me anytime.</h2>
-                                <p class="lead">If you're really interested, you can book a calendar time with me using the button below. Otherwise, please e-mail me at <a href="mailto:jessica@callmejj.ca">jessica@callmejj.ca</a></p>
-                                <a class="btn btn--primary type--uppercase" href="https://calendly.com/callmejj/15min/02-26-2019" target="_blank"> <span class="btn__text">BOOK TIME ON MY CALENDAR</span></a>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-5"> <img alt="Image" class="block hide" src="images/JJ_headshot.jpeg"> </div>
-                    </div>
-                </div>
-            </section>
+
             <footer class="footer-7 text-center-xs">
                 <div class="container">
                     <div class="row">

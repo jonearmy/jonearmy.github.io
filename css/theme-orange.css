@@ -2723,7 +2723,7 @@ a {
   color: #fff;
 }
 .color--dark {
-  color: #252525;
+  color: #252525 !important;
 }
 .color--success {
   color: #4ebf56;
